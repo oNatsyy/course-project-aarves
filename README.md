@@ -8,3 +8,5 @@ Read our [design document](https://github.com/CSC207-UofT/course-project-aarves/
 
 Only available on Android.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This repository was my project for CSC207H1 and all files were turned in for credit. The code presented in this repository is not be re-used under any circumstances.
